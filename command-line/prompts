@@ -1,0 +1,1 @@
+% ipconfig getifaddr en0 //used to obtain the actual ip address on a mac
